@@ -17,7 +17,7 @@ module RailsJQueryAutocomplete
         end
 
         define_method :item_hash do |term|
-          hash = autocomplete_items(term).inject([]) do |m, e|
+          autocomplete_items(term).inject([]) do |m, e|
             m << {id: e.id, value: e.send(method), label: e.send(method)}
           end
         end
