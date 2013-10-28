@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = RailsJQueryAutocomplete::VERSION
   spec.authors       = ["David Padilla"]
   spec.email         = ["david@crowdint.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A quick and easy way to use jQuery's autocomplete with Rails.}
+  spec.summary       = %q{A quick and easy way to use jQuery's autocomplete with Rails.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

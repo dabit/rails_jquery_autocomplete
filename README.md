@@ -1,6 +1,6 @@
 # Rails::Jquery::Autocomplete
 
-A quick and easy way to use jQuery's autocomplete with Rails 3.
+A quick and easy way to use jQuery's autocomplete with Rails.
 
 ## Installation
 
