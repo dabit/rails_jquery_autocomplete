@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "railties"
 
   spec.add_development_dependency "bundler", "~> 1.3"
-  spec.add_development_dependency "rake"
-  spec.add_development_dependency "rr"
+  spec.add_development_dependency "rake", "~> 10.1.0"
+  spec.add_development_dependency "rr", "~> 1.1.2"
 end
