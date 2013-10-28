@@ -4,8 +4,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rails/jquery/autocomplete/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "rails-jquery-autocomplete"
-  spec.version       = Rails::Jquery::Autocomplete::VERSION
+  spec.name          = "rails_jquery_autocomplete"
+  spec.version       = RailsJQueryAutocomplete::VERSION
   spec.authors       = ["David Padilla"]
   spec.email         = ["david@crowdint.com"]
   spec.description   = %q{TODO: Write a gem description}
