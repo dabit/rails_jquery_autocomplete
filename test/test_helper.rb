@@ -1,5 +1,5 @@
 require 'test/unit'
-require 'rails/all'
+require 'action_controller/railtie'
 
 require 'rr'
 require 'rails_jquery_autocomplete'
